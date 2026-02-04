@@ -11,7 +11,7 @@ def bubble_sort(arr)
   arr
 end
 
-# Odit test case
+# Odin test case
 p bubble_sort([4,3,78,2,0,2])
 
 # Already sorted
